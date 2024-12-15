@@ -4,20 +4,20 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Raúl+Maken!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Madrid</h3>
-
 <br/>
+ <h3 align="center">A passionate software developer from Madrid</h3>
 
 <div align="center">
+    <div><a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/black/rmakende?UM6P=off" alt="rmakende's 42 stats" /></a></div>
+</div>
+<div align="center">
+ 🔭 I’m currently working on Python, XSOAR in Telefonica Tech
  
- 🔭 I’m currently working on **Java, React**
- 
- 🌱 I’m currently learning **C, C++, React**
+ 🌱 I’m currently learning C, C++ in 42Madrid
 
 💬 Ask me about **anything [here](https://github.com/RaulMkn/RaulMkn/issues)**
 
  </div>
- 
 <div align="center"> 
   <a href="mailto:rmakendenguerodriguez@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -32,8 +32,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=php,javascript,java,c,html,css,vscode,github,spring,git" />
-    <img src="https://skillicons.dev/icons?i=bootstrap,docker,idea,firebase,androidstudio,react,mysql,postgres" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,java,c,vscode,git,spring,python" />
+    <img src="https://skillicons.dev/icons?i=docker,idea,react,mysql,postgres" /><br>
 </div>
 
 <br/>

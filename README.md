@@ -11,7 +11,7 @@
     <div><a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/black/rmakende?UM6P=off" alt="rmakende's 42 stats" /></a></div>
 </div>
 <div align="center">
- 🔭 I’m currently working on Python, XSOAR in Telefonica Tech
+ 🔭 I’m currently working on Google Cloud and DevOps in Devoteam
  
  🌱 I’m currently learning C, C++ in 42Madrid
 
